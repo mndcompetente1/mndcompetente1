@@ -1,4 +1,4 @@
-# Hi, I'm Matthew Nicolai Competente 👋
+# Hi, I'm Matthew Nicolai Competente
 
 Business Analytics student at **FEU Alabang** (BS Information Technology). I turn data into insights and decisions through analysis, dashboards, and clear recommendations.
 
